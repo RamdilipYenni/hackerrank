@@ -1,0 +1,6 @@
+import math
+def areaSquare( side ): 
+    area = side * side 
+    return area 
+side = int(input(""))
+print(areaSquare(side))
