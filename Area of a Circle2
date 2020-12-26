@@ -1,0 +1,4 @@
+import math
+r=float(input())
+a=math.pi*r*r
+print("{0:6f}".format(a))
